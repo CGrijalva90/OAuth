@@ -5,6 +5,9 @@ module.exports = {
   },
   mongodb: {
     dbURI: 'mongodb://carlos:password@ds129004.mlab.com:29004/ouath'
+  },
+  session: {
+    cookieKey: 'carlosgrijalvalatorre'
   }
 };
 
